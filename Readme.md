@@ -115,7 +115,8 @@ end_node = get_valid_node("도착 역과 호선을 입력해주세요 (예: 강�
 
 출력 (지도 시각화)
 최단 경로 탐색 결과가 Folium 지도로 시각화되어, 각기 다른 색상으로 표시된 호선을 따라 경로를 쉽게 확인할 수 있습니다.
-![Uploading image.png…](결과)
+<img width="809" height="485" alt="시각화" src="https://github.com/user-attachments/assets/866c8acf-7da8-4223-9c31-d4389b3c83e3" />
+
 
 ---
 
